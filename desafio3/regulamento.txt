@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Horário de silêncio: a partir das 21h
-=======
-Horário de silêncio: a partir das 23h
->>>>>>> proposta2
+Horário de silêncio: a partir das 21h30
