@@ -1,4 +1,9 @@
 visita à praia,
 passeio ao museu,
 apresentação musical,
+<<<<<<< HEAD
 visita ao centro histórico
+=======
+passeio de barco,
+jantar especial
+>>>>>>> alternativo
